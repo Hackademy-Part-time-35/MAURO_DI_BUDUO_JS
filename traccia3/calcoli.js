@@ -1,4 +1,4 @@
-
+// Bene Mauro, vedo cha hai usato l'accapo nel console.log, Ottimo lavoro
 let num1 = parseInt(prompt("inserisci il primo numero"));
 let num2 = parseInt(prompt("inserisci il secondo numero"));
 let somma = num1 + num2;

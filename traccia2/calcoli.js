@@ -1,3 +1,5 @@
+// Bene
+
 let anno_corrente = 2024;
 let data_ascita = 1995;
 let età = anno_corrente - data_ascita;
